@@ -1,0 +1,11 @@
+double getAverage(int arr[], int size);
+int main () {
+int balance[5] = {1000, 2, 3, 17, 50};
+double avg;
+avg = getAverage( balance[0], 5 ) ;
+cout << "Average value is: " << avg << endl;
+return 0;
+}
+
+An;-
+in line 5th we are paaing only the value of 0th index but we have to pass the addres of the element of zeroth index,
