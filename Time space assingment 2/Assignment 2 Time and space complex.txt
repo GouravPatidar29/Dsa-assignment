@@ -1,0 +1,11 @@
+Assignment 2 Time and space complexity 
+Question 1:-
+      ans :- O(n * sqrt(n)) ;
+Question 2:-
+  ans:-  O(n log n);
+Question 3:-
+ ans:- O(logn);
+Question 4;
+ans:- O(n);
+Question 5;
+ans:-O(nlogn);
