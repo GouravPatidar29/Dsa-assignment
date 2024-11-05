@@ -1,0 +1,13 @@
+Assignment 1 Time and space complexity 
+Question 1:-
+      ans :- O(log n) ;
+Question 2:-
+  ans:-  O(1);
+Question 3:-
+ ans:- O(n);
+Question 4;
+ans:- O(log n);
+Question 5;
+ans:-O(n);
+Question 6:
+ans:-O(n^2);
